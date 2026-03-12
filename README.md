@@ -87,6 +87,7 @@ npm run dev
 - **Hierarchical Reasoning:** Problems are broken down into Ops, Eng, and Arch domains.
 - **Vectorized Memory:** Learns from past missions to improve future performance.
 - **Micro-Animations:** A world-class editorial dashboard experience.
+- **Live Dashboard:** [omni-dev-dashboard.vercel.app](https://omni-dev-dashboard.vercel.app)
 
 ---
 Built with ❤️ by Antigravity for the 2026 Developer Pack Showcase.
